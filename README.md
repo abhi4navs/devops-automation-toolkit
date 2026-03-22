@@ -2,7 +2,7 @@
 
 > A production-grade collection of shell scripts for system monitoring, application deployment, automated backups, and log analysis.
 
-**Author:** Abhinav | CSE (Cybersecurity) — GEC Samastipur  
+**Author:** Abhinav | CSE (Cybersecurity) 
 **Stack:** Bash · Linux · Nginx · MySQL/PostgreSQL · systemd  
 **Purpose:** DevOps portfolio project demonstrating automation, reliability engineering, and operational tooling.
 
@@ -228,6 +228,4 @@ Options:
 
 ---
 
-## License
 
-MIT — free to use, modify, and reference in interviews.
